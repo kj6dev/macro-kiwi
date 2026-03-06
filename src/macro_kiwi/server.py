@@ -41,7 +41,7 @@ TOOLS = [
         description=(
             "Generate an image using OpenAI's DALL-E 3 model and automatically save it locally. "
             "Creates high-quality 1024x1024 images from text descriptions. "
-            "Images are downloaded and saved to the current directory with timestamp and metadata. "
+            "Images are saved locally with timestamp and metadata. "
             "Best for: illustrations, concept art, creative imagery. "
             "Cost: $0.04 per image (standard quality)."
         ),
@@ -63,6 +63,10 @@ TOOLS = [
                     "enum": ["vivid", "natural"],
                     "default": "natural",
                     "description": "Image style (vivid=hyper-real, natural=authentic)",
+                },
+                "output_path": {
+                    "type": "string",
+                    "description": "Full file path to save the image (e.g. /tmp/hero.png). If omitted, saves to current directory with auto-generated name.",
                 },
             },
             "required": ["prompt"],
@@ -187,6 +191,7 @@ async def call_tool(name: str, arguments: dict) -> Sequence[TextContent | ImageC
                 prompt=arguments["prompt"],
                 quality=arguments.get("quality", "standard"),
                 style=arguments.get("style", "natural"),
+                output_path=arguments.get("output_path"),
             )
             return [TextContent(type="text", text=result)]
 

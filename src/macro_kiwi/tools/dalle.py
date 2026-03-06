@@ -17,6 +17,7 @@ async def generate_dalle_image(
     prompt: str,
     quality: str = "standard",
     style: str = "natural",
+    output_path: str | None = None,
     output_dir: str = ".",
 ) -> str:
     """
@@ -26,7 +27,8 @@ async def generate_dalle_image(
         prompt: Text description of the image to generate
         quality: Image quality ("standard" or "hd")
         style: Image style ("vivid" or "natural")
-        output_dir: Directory to save image (default: current directory)
+        output_path: Full file path to save image (overrides output_dir and auto-naming)
+        output_dir: Directory to save image with auto-generated name (default: current directory)
 
     Returns:
         Status message with local file path and OpenAI URL
@@ -48,17 +50,18 @@ async def generate_dalle_image(
         image_url = response.data[0].url
         revised_prompt = response.data[0].revised_prompt
 
-        # Prepare output directory
-        output_path = Path(output_dir)
-        output_path.mkdir(parents=True, exist_ok=True)
-
-        # Generate filename with timestamp
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        # Sanitize prompt for filename (first 50 chars, alphanumeric only)
-        safe_prompt = "".join(c for c in prompt[:50] if c.isalnum() or c.isspace())
-        safe_prompt = safe_prompt.replace(" ", "_")
-        image_filename = f"dalle_{timestamp}_{safe_prompt}.png"
-        image_path = output_path / image_filename
+        # Determine save path
+        if output_path:
+            image_path = Path(output_path)
+            image_path.parent.mkdir(parents=True, exist_ok=True)
+        else:
+            dir_path = Path(output_dir)
+            dir_path.mkdir(parents=True, exist_ok=True)
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            safe_prompt = "".join(c for c in prompt[:50] if c.isalnum() or c.isspace())
+            safe_prompt = safe_prompt.replace(" ", "_")
+            image_filename = f"dalle_{timestamp}_{safe_prompt}.png"
+            image_path = dir_path / image_filename
 
         # Download and save image
         import httpx

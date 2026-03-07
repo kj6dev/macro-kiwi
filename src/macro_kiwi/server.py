@@ -17,7 +17,14 @@ from mcp.types import (
 from pydantic import AnyUrl
 import anyio
 
-# Load environment variables from .env file
+# Load secrets from macOS Keychain, fall back to .env
+import subprocess
+for _svc, _envvar in [("openai-api-key-macro-kiwi", "OPENAI_API_KEY"), ("google-genai-api-key", "GOOGLE_GENAI_API_KEY")]:
+    _r = subprocess.run(["security", "find-generic-password", "-a", "REDACTED_USER", "-s", _svc, "-w"], capture_output=True, text=True)
+    if _r.returncode == 0 and _r.stdout.strip():
+        os.environ[_envvar] = _r.stdout.strip()
+
+# Fall back to .env file for any missing values
 env_path = Path(__file__).parent.parent.parent / ".env"
 load_dotenv(dotenv_path=env_path)
 
@@ -39,11 +46,11 @@ TOOLS = [
     Tool(
         name="generate_dalle_image",
         description=(
-            "Generate an image using OpenAI's DALL-E 3 model and automatically save it locally. "
+            "Generate an image using OpenAI's gpt-image-1.5 model. "
             "Creates high-quality 1024x1024 images from text descriptions. "
-            "Images are downloaded and saved to the current directory with timestamp and metadata. "
+            "Images are saved locally with timestamp and metadata. "
             "Best for: illustrations, concept art, creative imagery. "
-            "Cost: $0.04 per image (standard quality)."
+            "Cost: $0.008-0.14 per image depending on quality."
         ),
         inputSchema={
             "type": "object",
@@ -54,15 +61,15 @@ TOOLS = [
                 },
                 "quality": {
                     "type": "string",
-                    "enum": ["standard", "hd"],
-                    "default": "standard",
-                    "description": "Image quality (standard=$0.04, hd=$0.08)",
+                    "enum": ["low", "medium", "high"],
+                    "default": "medium",
+                    "description": "Image quality (low=$0.008, medium=$0.03, high=$0.14)",
                 },
-                "style": {
+                "background": {
                     "type": "string",
-                    "enum": ["vivid", "natural"],
-                    "default": "natural",
-                    "description": "Image style (vivid=hyper-real, natural=authentic)",
+                    "enum": ["auto", "transparent", "opaque"],
+                    "default": "auto",
+                    "description": "Background mode (transparent for PNG with alpha)",
                 },
             },
             "required": ["prompt"],
@@ -71,13 +78,13 @@ TOOLS = [
     Tool(
         name="edit_image_with_gemini",
         description=(
-            "Edit images using Google's Gemini 2.5 Flash Image model (Nano Banana). "
+            "Edit images using Google's Gemini image models (Nano Banana). "
             "⭐ EXTREMELY CAPABLE image editor using simple text prompts - no complex masking! "
+            "Two models: 'flash' (default, 1024px, fast) or 'pro' (4096px, professional-grade). "
             "Excellent for 'last mile' refinements: final polish, quick iterations, professional finishing touches. "
             "Perfect for: background removal/replacement, adding/removing elements, style changes, "
             "color adjustments, fixing artifacts, artistic modifications, composition changes. "
-            "Handles sophisticated edits naturally through conversational instructions. "
-            "Cost: $0.039 per 1024x1024 image."
+            "Cost: flash=$0.039, pro=$0.13-0.24 per image."
         ),
         inputSchema={
             "type": "object",
@@ -96,6 +103,12 @@ TOOLS = [
                 "output_path": {
                     "type": "string",
                     "description": "Path where the edited image should be saved",
+                },
+                "model": {
+                    "type": "string",
+                    "enum": ["flash", "pro"],
+                    "default": "flash",
+                    "description": "Model: 'flash' (fast, 1024px) or 'pro' (4K, advanced reasoning)",
                 },
             },
             "required": ["image_path", "edit_prompt", "output_path"],
@@ -185,8 +198,8 @@ async def call_tool(name: str, arguments: dict) -> Sequence[TextContent | ImageC
         if name == "generate_dalle_image":
             result = await generate_dalle_image(
                 prompt=arguments["prompt"],
-                quality=arguments.get("quality", "standard"),
-                style=arguments.get("style", "natural"),
+                quality=arguments.get("quality", "medium"),
+                background=arguments.get("background", "auto"),
             )
             return [TextContent(type="text", text=result)]
 
@@ -195,6 +208,7 @@ async def call_tool(name: str, arguments: dict) -> Sequence[TextContent | ImageC
                 image_path=arguments["image_path"],
                 edit_prompt=arguments["edit_prompt"],
                 output_path=arguments["output_path"],
+                model=arguments.get("model", "flash"),
             )
             return [TextContent(type="text", text=result)]
 

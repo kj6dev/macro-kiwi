@@ -16,12 +16,16 @@ from mcp.types import (
 )
 import anyio
 
-# Load secrets from macOS Keychain, fall back to .env
+# Load secrets from Proton Pass, fall back to Keychain then .env
 import subprocess
 for _svc, _envvar in [("google-genai-api-key", "GOOGLE_GENAI_API_KEY")]:
-    _r = subprocess.run(["security", "find-generic-password", "-a", "REDACTED_USER", "-s", _svc, "-w"], capture_output=True, text=True)
-    if _r.returncode == 0 and _r.stdout.strip():
-        os.environ[_envvar] = _r.stdout.strip()
+    _pp = subprocess.run(["pass-cli", "item", "view", "--vault-name", "Developer Secrets", "--item-title", _svc, "--field", "note"], capture_output=True, text=True)
+    if _pp.returncode == 0 and _pp.stdout.strip():
+        os.environ[_envvar] = _pp.stdout.strip()
+    else:
+        _r = subprocess.run(["security", "find-generic-password", "-a", "REDACTED_USER", "-s", _svc, "-w"], capture_output=True, text=True)
+        if _r.returncode == 0 and _r.stdout.strip():
+            os.environ[_envvar] = _r.stdout.strip()
 
 # Fall back to .env file for any missing values
 env_path = Path(__file__).parent.parent.parent / ".env"

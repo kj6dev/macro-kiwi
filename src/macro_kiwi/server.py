@@ -2,10 +2,8 @@
 
 import logging
 import os
-from pathlib import Path
 from collections.abc import Sequence
 
-from dotenv import load_dotenv
 from mcp.server import Server
 from mcp.server.stdio import stdio_server
 from mcp.types import (
@@ -17,9 +15,17 @@ from mcp.types import (
 from pydantic import AnyUrl
 import anyio
 
-# Load environment variables from .env file
-env_path = Path(__file__).parent.parent.parent / ".env"
-load_dotenv(dotenv_path=env_path)
+# Load API keys from Proton Pass (primary) or macOS Keychain (fallback)
+# before tool modules are imported, as they read env vars at import time.
+from .secrets import get_secret
+
+_openai_key = get_secret("openai-api-key-macro-kiwi")
+if _openai_key:
+    os.environ["OPENAI_API_KEY"] = _openai_key
+
+_google_key = get_secret("google-genai-api-key")
+if _google_key:
+    os.environ["GOOGLE_GENAI_API_KEY"] = _google_key
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)

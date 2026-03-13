@@ -10,7 +10,6 @@ dependencies = [
     "mcp>=1.17.0",
     "openai>=2.3.0",
     "pillow>=11.3.0",
-    "python-dotenv>=1.1.1",
 ]
 
 [project.scripts]

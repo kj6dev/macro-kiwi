@@ -1,0 +1,10 @@
+Original Prompt:
+Photorealistic telephoto photograph of a female Cinnamon Teal (Spatula cyanoptera) swimming on calm water. Key features: warm brown mottled plumage overall, relatively long bill, VERY SUBDUED and dull pale blue-gray wing patch (barely visible, not bright or flashy). Warm brown tones throughout. Marsh habitat with reeds in soft background. Natural lighting.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-09T20:46:42.041978

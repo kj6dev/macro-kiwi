@@ -1,0 +1,10 @@
+Original Prompt:
+iOS app icon for "LiftMetrics" - a fitness analytics app. Design: Abstract geometric mountain peak made of stacked horizontal bars (like a bar chart growing upward), suggesting both progress charts and weight plates. Rich purple to electric blue gradient background. Minimal, bold, iconic. No text. 1024x1024, iOS app icon style.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: medium
+Background: auto
+Generated: 2026-02-23T17:28:12.510012

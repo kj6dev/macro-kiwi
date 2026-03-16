@@ -1,0 +1,10 @@
+Original Prompt:
+iOS app icon for "LiftMetrics" - a strength progress tracking app. Design: A stylized kettlebell silhouette where the handle forms an upward curve like a line chart trending up. Vibrant green to teal gradient on a dark background. Modern, sporty, clean. No text. 1024x1024, iOS app icon format.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: medium
+Background: auto
+Generated: 2026-02-23T17:28:40.007685

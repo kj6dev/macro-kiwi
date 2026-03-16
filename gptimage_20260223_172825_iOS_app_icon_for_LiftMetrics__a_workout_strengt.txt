@@ -1,0 +1,10 @@
+Original Prompt:
+iOS app icon for "LiftMetrics" - a workout strength tracking app. Design: A single bold upward arrow or chevron shape, with subtle horizontal lines through it suggesting measurement/metrics. Dark charcoal background with a warm orange-gold gradient on the arrow. Premium, sleek, Apple-design-language inspired. No text. 1024x1024.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: medium
+Background: auto
+Generated: 2026-02-23T17:28:25.494560

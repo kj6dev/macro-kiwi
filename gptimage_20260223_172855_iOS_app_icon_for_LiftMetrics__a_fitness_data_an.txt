@@ -1,0 +1,10 @@
+Original Prompt:
+iOS app icon for "LiftMetrics" - a fitness data and lifting tracker app. Design: Overlapping circular rings or arcs (like Apple Watch activity rings) but styled to suggest weight plates, with a small chart/pulse line element. White and light gray rings on a rich dark blue-black background. Elegant, premium feel. No text. 1024x1024.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: medium
+Background: auto
+Generated: 2026-02-23T17:28:55.479074

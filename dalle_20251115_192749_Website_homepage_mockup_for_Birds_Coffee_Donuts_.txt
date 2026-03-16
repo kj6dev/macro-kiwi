@@ -1,0 +1,15 @@
+Original Prompt:
+Website homepage mockup for "Birds Coffee Donuts" gravel cycling community. Clean, minimal design with geometric sans-serif typography. Top of page shows site title "BIRDS COFFEE DONUTS" in precise, centered typography. Below that, three ride entries listed vertically in reverse chronological order:
+
+"BCD Volume 3" with date, mileage, and terrain preview
+"BCD Volume 2" with date, mileage, and terrain preview  
+"BCD Volume 1" with date, mileage, and terrain preview
+
+Each ride entry shows: title, date, distance (e.g. "76 miles"), surface type (e.g. "51% unpaved"), and small thumbnail map. Clean whitespace between sections. Color palette: warm earth tones (tan, brown, orange) with pops of bird-related colors (sky blue, forest green). Minimalist bird silhouettes as subtle decorative elements. Professional, organized layout that feels playful but not childish. Desktop web view, modern design, clear hierarchy.
+
+Revised Prompt:
+Create a mockup of the website homepage for a gravel cycling community called 'Birds Coffee Donuts'. The design should be clean and minimal, using geometric sans-serif typography. The top of the page should display the site title 'BIRDS COFFEE DONUTS', centered and precise. Below the title, show three ride entries listed vertically in reverse chronological order: 'BCD Volume 3', 'BCD Volume 2', and 'BCD Volume 1', each with the corresponding date, mileage, and terrain preview. Each ride entry should include a title, date, distance indication (for example, '76 miles'), surface type (like '51% unpaved'), and a small thumbnail map. Maintain clean whitespace between sections. The color palette should consist of warm earth tones such as tan, brown, orange, complemented with bursts of bird-related hues like sky blue and forest green. Adorn the layout subtly with minimalist bird silhouettes. The layout must be professional and structured, while exuding a sense of playfulness without seeming childish. This design should be suitable for a desktop web view, exhibit modern design principles, and demonstrate a clear hierarchy.
+
+Quality: standard
+Style: natural
+Generated: 2025-11-15T19:27:49.834770

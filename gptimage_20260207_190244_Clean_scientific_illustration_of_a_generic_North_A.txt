@@ -1,0 +1,10 @@
+Original Prompt:
+Clean scientific illustration of a generic North American songbird (like a sparrow), side profile on a plain white background. The bird's RUMP (the area on the lower back just above the tail) is highlighted in bright red/orange color while the rest of the bird is rendered in neutral gray tones. No text, no labels, no arrows. Just the bird with the rump region clearly highlighted in contrasting color. Field guide illustration style, clean and educational.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-07T19:02:44.933570

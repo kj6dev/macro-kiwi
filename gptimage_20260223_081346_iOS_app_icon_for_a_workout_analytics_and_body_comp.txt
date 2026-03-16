@@ -1,0 +1,10 @@
+Original Prompt:
+iOS app icon for a workout analytics and body composition tracking app. Bold gradient background from deep purple to dark blue. Center features a minimalist barbell plate (weight plate circle) with a rising chart line cutting through it diagonally from bottom-left to top-right. The chart line glows with a warm orange-to-yellow gradient. No text, clean vector-style illustration, suitable for iOS app icon with rounded corners.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: auto
+Generated: 2026-02-23T08:13:46.502833

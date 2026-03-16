@@ -1,0 +1,10 @@
+Original Prompt:
+Clean scientific illustration of a songbird head in close-up side profile on a plain white background. The bird's LORES — the tiny triangular patch of skin and feathers BETWEEN the eye and the base of the bill — is highlighted in bright red/orange color. This is a very small area right in front of the eye, NOT the cheek, NOT below the eye. The rest of the head is in neutral gray tones. No text, no labels, no arrows. Field guide illustration style, clean and educational.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-07T19:16:07.987988

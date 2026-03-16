@@ -1,0 +1,10 @@
+Original Prompt:
+Minimalist iOS app icon for "PointRank" - a decision-making tool. Design: A single stylized balance scale or fulcrum rendered as a clean geometric triangle with a horizontal line, suggesting weighing and balance. Teal/emerald gradient on a dark charcoal background. Ultra-clean, Apple-style minimalism. No text, no letters. One bold shape. Square format for iOS app icon.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: auto
+Generated: 2026-02-22T13:04:39.003235

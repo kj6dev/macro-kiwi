@@ -1,0 +1,9 @@
+Original Prompt:
+Flat vector illustration with thick dark navy outlines (2-4px), Adam Sandler career journey theme: geometric winding path/road in solid cyan blue with upward arrow, comedy microphone icon simplified in solid orange, dramatic theater spotlight as triangle in solid magenta pink, film award trophy shape in solid coral, layered overlapping wave background in bright solid colors (cyan, orange, coral, magenta, deep purple) arranged diagonally suggesting movement, cartoon geometric style, bold dark outlines on every shape, each element filled with single solid color no gradients, hard edges between all colors, completely matte appearance, journey and transformation visual metaphors, playful professional style, high contrast saturated colors, clean vector art
+
+Revised Prompt:
+Craft a flat vector illustration with thick dark navy outlines (2-4px), focusing on the theme of a comedian's career journey. Depict a geometric winding path or road in solid cyan blue with an upward-pointing arrow, a comedic microphone icon simplified in solid orange, and a theatrical spotlight as a triangle in solid magenta pink. Include a film award trophy, highlighting achievement, shaped in solid coral. Set this against a layered overlapping wave background in bright solid colors (cyan, orange, coral, magenta, deep purple) arranged diagonally suggesting movement. The style should be whimsical and geometric, with bold dark outlines on every shape, each element filled with a single solid color with no gradients, hard edges between all colors, and a wholly matte appearance. Incorporate visual metaphors symbolising journey and transformation, all while maintaining a playful yet professional style. The illustration should embrace high contrast with saturated colors, showcasing clean vector art.
+
+Quality: standard
+Style: vivid
+Generated: 2025-11-02T22:09:16.974913

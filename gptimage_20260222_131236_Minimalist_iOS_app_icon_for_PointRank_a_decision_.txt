@@ -1,0 +1,10 @@
+Original Prompt:
+Minimalist iOS app icon for PointRank, a decision scoring tool. Design: A single bold checkmark made of two thick geometric lines, slightly stylized with a subtle gradient from orange to coral. Soft off-white/cream background. Simple, confident, decisive. No text. Square format iOS app icon.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: auto
+Generated: 2026-02-22T13:12:36.703855

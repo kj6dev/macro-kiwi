@@ -1,0 +1,9 @@
+Original Prompt:
+Flat vector illustration with thick dark navy outlines (2-4px), Punch-Drunk Love film theme: geometric heart shape in solid magenta pink, simplified telephone icon in solid cyan blue, rectangular pudding cup shapes in solid orange, abstract emotional burst/explosion as geometric shapes in solid coral, layered overlapping wave background in bright solid colors (cyan, orange, coral, magenta, deep purple) with diagonal romantic flow, cartoon geometric style, bold dark outlines around every element, each shape one uniform solid color with no gradients, hard edges between colors, matte flat appearance no highlights, love and communication visual metaphors, playful quirky professional aesthetic, high contrast bright saturated colors, clean vector art
+
+Revised Prompt:
+Create a flat vector illustration with thick dark navy outlines (2-4px). The theme should be romantic, referencing the film 'Punch-Drunk Love' in a playful and quirky manner. Include a geometric heart shape in solid magenta pink, a simplified telephone icon in solid cyan blue, and rectangular pudding cup shapes in solid orange. Add an abstract emotional burst or explosion as geometric shapes in solid coral. The background should be composed of layered overlapping waves in bright solid colors, including cyan, orange, coral, magenta, and deep purple, moving in a diagonal romantic flow. The art should be in cartoon geometric style with dark outlines around every element. Every shape in the illustration must be of one uniform solid color with no gradients, presenting hard edges between colors and a matte flat appearance with no highlights. The image should convey visual metaphors of love and communication and have a professional aesthetic. Ensure a high contrast with bright, saturated colors and clean vector art.
+
+Quality: standard
+Style: vivid
+Generated: 2025-11-02T22:09:48.945871

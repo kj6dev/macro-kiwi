@@ -1,0 +1,10 @@
+Original Prompt:
+Photorealistic telephoto photograph of a male American Three-toed Woodpecker clinging to the bark of a dead conifer tree. Key features: yellow crown patch on forehead (males only), black and white barred flanks, solid black back (distinguishes from Black-backed Woodpecker which also has yellow crown but black back without barring), white facial stripe. Only three toes (though not typically visible). Boreal forest or burned forest setting. Professional wildlife photography style.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-12T17:58:25.032940

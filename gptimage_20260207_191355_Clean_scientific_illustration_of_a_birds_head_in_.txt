@@ -1,0 +1,10 @@
+Original Prompt:
+Clean scientific illustration of a bird's head in close-up side profile on a plain white background. The bird's UPPER MANDIBLE (the top half of the bill) is highlighted in bright red/orange color and the LOWER MANDIBLE (the bottom half of the bill) is highlighted in a contrasting bright blue color, while the rest of the head is rendered in neutral gray tones. This shows the two halves of the bill clearly. No text, no labels, no arrows. Field guide illustration style, clean and educational.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-07T19:13:55.687909

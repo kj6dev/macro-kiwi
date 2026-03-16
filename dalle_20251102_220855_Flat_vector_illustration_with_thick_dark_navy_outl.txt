@@ -1,0 +1,9 @@
+Original Prompt:
+Flat vector illustration with thick dark navy outlines (2-4px), Philip Seymour Hoffman acting theme: geometric theater masks (comedy and tragedy) in solid cyan blue and magenta pink, simplified film reel shapes in solid orange, spotlight beam as geometric triangle in solid coral, layered overlapping wave background in bright solid colors (cyan, orange, coral, magenta, deep purple) with diagonal flow, cartoon geometric style, bold dark outlines around every element, each shape one uniform solid color with no gradients or shading, hard edges between all colors, matte flat appearance, theatrical and cinematic visual metaphors, playful professional aesthetic, high contrast bright colors, clean vector art
+
+Revised Prompt:
+Create a flat vector illustration using thick dark navy outlines (2-4px). The theme should be general acting, featuring geometric theater masks, representing comedy and tragedy, in solid cyan blue and magenta pink, respectively. The design should include simplified film reel shapes in solid orange, with a spotlight beam depicted as a geometric triangle in a solid coral color. The background should consist of layered, overlapping waves in bright solid colors, including cyan, orange, coral, magenta, and deep purple, flowing diagonally. The image should exhibit a cartoonish geometric style, with bold dark outlines around every element. Each shape should bear one uniform solid color, without gradients or shading, and hard edges between all colors. The visual aesthetic should be playful and professional, reminiscent of the world of theater and cinema. To enhance its standout feature, use high contrast bright colors in a matte, flat appearance for a clean vector art feel.
+
+Quality: standard
+Style: vivid
+Generated: 2025-11-02T22:08:56.024508

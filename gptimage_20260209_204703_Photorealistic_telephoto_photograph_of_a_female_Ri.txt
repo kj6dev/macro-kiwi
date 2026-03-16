@@ -1,0 +1,10 @@
+Original Prompt:
+Photorealistic telephoto photograph of a female Ring-necked Duck (Aythya collaris) swimming on water. Key features: PROMINENT WHITE RING around the bill near the tip (this is the most important diagnostic feature - clearly visible white band encircling the bill), brown body, peaked/angular head shape, white eye-ring, pale face patch at base of bill. Calm lake with soft background.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-09T20:47:03.846653

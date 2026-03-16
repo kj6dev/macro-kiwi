@@ -1,0 +1,10 @@
+Original Prompt:
+Minimalist iOS app icon for "PointRank" - a decision-making and scoring app. Design: A clean, geometric upward-pointing arrow or chevron made of graduated/stacked horizontal bars, each bar slightly different in length suggesting a ranking/chart. Use a bold gradient from deep indigo to electric blue. White geometric elements on dark background. Modern, flat design. No text. Square with rounded corners like an iOS app icon. Professional and sophisticated.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: auto
+Generated: 2026-02-22T13:03:46.118973

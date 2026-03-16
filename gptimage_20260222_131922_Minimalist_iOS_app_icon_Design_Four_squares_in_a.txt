@@ -1,0 +1,10 @@
+Original Prompt:
+Minimalist iOS app icon. Design: Four squares in a 2x2 grid, each a different brightness level representing score levels 1-4. Top-left is lightest (barely visible), top-right medium-light, bottom-left medium-bright, bottom-right fully saturated bright coral/orange. Background is clean white. Squares have slightly rounded corners with small gaps between them. Looks like a scoring rubric or heat map. No text. Simple, bold, iconic. Square format iOS app icon.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: auto
+Generated: 2026-02-22T13:19:22.052711

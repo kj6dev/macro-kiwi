@@ -1,0 +1,10 @@
+Original Prompt:
+Clean scientific illustration of an American Robin in side profile on a plain white background, rendered in neutral gray tones. The bird's rounded tail (with a gently curved edge, longest in the middle) is highlighted in bright red/orange color. No text, no labels. Field guide illustration style.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-07T19:14:43.772325

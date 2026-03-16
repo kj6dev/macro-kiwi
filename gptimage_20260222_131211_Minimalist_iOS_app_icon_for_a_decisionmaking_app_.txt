@@ -1,0 +1,10 @@
+Original Prompt:
+Minimalist iOS app icon for a decision-making app called PointRank. Design: An abstract upward-pointing arrow or chevron composed of small dots/circles arranged in a triangular pattern, suggesting points converging to a peak/rank. White dots on a rich purple-to-indigo gradient background. No text. Clean, modern, geometric. Square format iOS icon.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: auto
+Generated: 2026-02-22T13:12:11.448876

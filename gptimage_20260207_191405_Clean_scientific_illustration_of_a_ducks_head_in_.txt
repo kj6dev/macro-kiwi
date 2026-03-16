@@ -1,0 +1,10 @@
+Original Prompt:
+Clean scientific illustration of a duck's head in close-up side profile on a plain white background. The bird's NAIL (the small hard plate at the very tip of the duck's bill) is highlighted in bright red/orange color while the rest of the head and bill is rendered in neutral gray tones. The nail is a small distinct area at the end of the bill. No text, no labels, no arrows. Field guide illustration style, clean and educational.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-07T19:14:05.643370

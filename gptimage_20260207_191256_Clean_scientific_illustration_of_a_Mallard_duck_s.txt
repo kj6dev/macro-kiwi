@@ -1,0 +1,10 @@
+Original Prompt:
+Clean scientific illustration of a Mallard duck, side profile on a plain white background. The bird's SPECULUM (the colorful iridescent patch on the secondary feathers of the wing, visible as a rectangular patch on the folded wing) is highlighted in bright blue-purple iridescent color while the rest of the bird is rendered in neutral gray tones. No text, no labels, no arrows. Field guide illustration style, clean and educational.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-07T19:12:56.814079

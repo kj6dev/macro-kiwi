@@ -1,0 +1,10 @@
+Original Prompt:
+App icon for "DeskDays" - an iOS app for tracking office attendance and return-to-office days. Clean, modern, minimal design. A stylized calendar or desk icon with a subtle checkmark, using a professional blue-teal gradient palette. Flat design suitable for iOS app icon. No text, no letters. Simple geometric shapes. Square format with rounded feel.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: opaque
+Generated: 2026-02-17T08:40:10.295152

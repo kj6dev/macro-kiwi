@@ -1,0 +1,10 @@
+Original Prompt:
+American White Pelican, photorealistic telephoto wildlife photography, adult bird floating on calm water in natural habitat. Large white bird with massive orange-yellow bill with characteristic bump/knob on upper mandible during breeding season. Bright white plumage, black flight feathers visible at wing tips. Clear detailed view showing the correct pelican bill shape - long, flat, with expandable throat pouch. Natural lake or marsh setting, soft natural lighting. Professional bird identification reference photo style.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-09T18:22:55.290266

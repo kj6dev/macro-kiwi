@@ -1,0 +1,10 @@
+Original Prompt:
+Photorealistic telephoto photograph of a female Northern Shoveler duck (Spatula clypeata) swimming on calm water. Key features: enormous spatula-shaped orange bill, mottled brown plumage, very subdued and muted speculum wing patch (barely visible, not bright or colorful). Natural marsh habitat with reeds in soft background. Golden hour lighting.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-09T20:45:58.235889

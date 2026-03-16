@@ -1,0 +1,10 @@
+Original Prompt:
+Clean scientific illustration of a hummingbird, side profile on a plain white background. The bird's GORGET (the iridescent throat patch that covers the front and sides of the throat) is highlighted in bright red/orange color while the rest of the bird is rendered in neutral gray tones. No text, no labels, no arrows. Field guide illustration style, clean and educational.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-07T19:10:24.558840

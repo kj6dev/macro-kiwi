@@ -1,0 +1,10 @@
+Original Prompt:
+Clean scientific illustration of a hawk in flight seen from below, wings spread, on a plain white background. The bird's PATAGIAL BAR (the dark stripe along the leading edge of the underwing, from the body to the wrist) is highlighted in bright red/orange color while the rest of the bird is rendered in neutral gray tones. No text, no labels, no arrows. Field guide illustration style, clean and educational.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-07T19:13:30.151448

@@ -1,0 +1,10 @@
+Original Prompt:
+iOS app icon for a strength training progress tracker. Minimalist design on a dark navy/charcoal gradient background. A stylized upward-trending line chart made of bold white/silver lines with a dumbbell icon subtly integrated at the peak of the trend line. Clean geometric style, no text, rounded corners appropriate for iOS app icon. Professional fitness aesthetic with accent colors of electric blue and vibrant green.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: auto
+Generated: 2026-02-23T08:13:15.081781

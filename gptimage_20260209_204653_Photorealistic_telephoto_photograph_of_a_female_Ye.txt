@@ -1,0 +1,10 @@
+Original Prompt:
+Photorealistic telephoto photograph of a female Yellow-headed Blackbird (Xanthocephalus xanthocephalus) perched on a cattail reed. Key features: PLAIN dark brown body (NOT streaked or spotted), dull yellowish-brown wash on breast and face/throat area, no bold streaking or stripes. Smaller and duller than male. Marsh habitat with cattails in background. The body should be uniformly dark brown, not patterned.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-09T20:46:53.818263

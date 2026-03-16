@@ -1,0 +1,10 @@
+Original Prompt:
+Minimalist iOS app icon. Design: A 2x2 grid of four rounded squares, each filled to different levels like score indicators. Top-left square filled 25% from bottom, top-right filled 75%, bottom-left filled 50%, bottom-right filled 100%. The fill uses a warm amber-to-gold gradient. Unfilled portions are dark navy. Thin gap between squares. Dark navy background. No text, no letters. Ultra-clean Apple-style minimalism. Square format iOS app icon.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: auto
+Generated: 2026-02-22T13:18:08.376903

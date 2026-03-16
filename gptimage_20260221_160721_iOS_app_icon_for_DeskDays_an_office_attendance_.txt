@@ -1,0 +1,10 @@
+Original Prompt:
+iOS app icon for "DeskDays", an office attendance tracking app. Design: Rich indigo/purple background (#312E81). A simplified calendar page icon in white, with 3 rows of small squares. Some squares filled bright green (#34D399) and others left as subtle outlines, suggesting days tracked vs remaining. Clean, geometric, minimal. No text. Professional SaaS-style icon. 1024x1024. No rounded corners.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: auto
+Generated: 2026-02-21T16:07:21.456987

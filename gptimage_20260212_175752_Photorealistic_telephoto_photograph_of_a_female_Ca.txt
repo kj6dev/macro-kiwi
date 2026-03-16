@@ -1,0 +1,10 @@
+Original Prompt:
+Photorealistic telephoto photograph of a female Canvasback duck swimming in calm water. Key features: distinctive long sloping forehead that blends smoothly into the bill creating a continuous ski-slope profile (this is the key distinguishing feature from female Redhead), pale brown plumage, subtle coloring. The head profile must show the forehead flowing straight down into the bill without any bump or angle. Natural wetland setting, soft lighting. Professional wildlife photography style.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-12T17:57:52.441712

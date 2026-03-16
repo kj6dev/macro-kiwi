@@ -1,0 +1,10 @@
+Original Prompt:
+Minimalist iOS app icon for a scoring/ranking app. Design: A 2x2 grid of four square selector boxes on a deep charcoal background. One box is brightly filled with teal/emerald, the other three are dimmed/outlined only - like selecting a score of 1 out of 4. Clean geometric shapes with rounded corners. Glowing highlight on the selected box. No text. Apple-style flat design. Square format iOS app icon.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: auto
+Generated: 2026-02-22T13:18:55.665749

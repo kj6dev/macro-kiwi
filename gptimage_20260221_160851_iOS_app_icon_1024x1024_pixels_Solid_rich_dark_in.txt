@@ -1,0 +1,10 @@
+Original Prompt:
+iOS app icon, 1024x1024 pixels. Solid rich dark indigo purple background filling the entire square. A simplified white calendar page icon with a grid of small squares in 3 rows. Some squares are filled with bright green and others are subtle white outlines, suggesting tracked vs remaining days. Clean geometric minimal design. Professional SaaS-style app icon. No text. No transparency, solid background.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: opaque
+Generated: 2026-02-21T16:08:51.143548

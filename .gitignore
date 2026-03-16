@@ -36,3 +36,7 @@ htmlcov/
 
 # MCP specific
 *.mcp.json
+.beads/bd.sock.startlock
+.beads/daemon.lock
+.beads/*.db
+.aider*

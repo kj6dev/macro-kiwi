@@ -1,0 +1,10 @@
+Original Prompt:
+Photorealistic telephoto photograph of an ADULT female Cooper's Hawk (Accipiter cooperii) perched on a branch. Key features: BLUE-GRAY back and wings (NOT brown - this is an adult, not immature), rufous-orange barring on white breast, red-orange eye, dark cap contrasting with pale nape, long banded tail. Deciduous forest background with soft bokeh.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-09T20:46:09.419183

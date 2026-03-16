@@ -1,0 +1,10 @@
+Original Prompt:
+Photorealistic telephoto photograph of a Western Flycatcher (formerly split into Cordilleran and Pacific-slope Flycatcher, now lumped back together). Small Empidonax flycatcher perched on a branch. Key features: olive-green upperparts, yellowish underparts, teardrop-shaped eye-ring (pointed behind the eye), two buffy wing bars, entirely orange-yellow lower mandible. Shady mountain canyon habitat with mossy rocks. Professional wildlife photography style.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-12T17:58:15.254370

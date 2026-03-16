@@ -1,0 +1,10 @@
+Original Prompt:
+Clean scientific illustration of a songbird head in close-up side profile on a plain white background. The bird has EYE ARCS — two small crescent-shaped marks highlighted in bright red/orange, one crescent ABOVE the eye and one crescent BELOW the eye, with gaps at the front and back of the eye (NOT a complete ring). These are broken half-circles, like parentheses around the top and bottom of the eye only. The rest of the head is neutral gray tones. No text, no labels, no arrows. Field guide illustration style, clean and educational.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-07T19:16:20.245806

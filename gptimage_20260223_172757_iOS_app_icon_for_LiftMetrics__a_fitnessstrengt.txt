@@ -1,0 +1,10 @@
+Original Prompt:
+iOS app icon for "LiftMetrics" - a fitness/strength tracking app. Design: A minimalist barbell viewed from the front (circular weight plates) with a subtle upward trend line running through the center. Color palette: deep navy blue background with bright teal/cyan accents. Clean, modern, no text. 1024x1024, rounded corners style suitable for iOS app icon.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: medium
+Background: auto
+Generated: 2026-02-23T17:27:57.251545

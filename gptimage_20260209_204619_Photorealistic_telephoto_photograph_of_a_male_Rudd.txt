@@ -1,0 +1,10 @@
+Original Prompt:
+Photorealistic telephoto photograph of a male Ruddy Duck (Oxyura jamaicensis) in NON-BREEDING plumage swimming on water. Key features: dull gray-brown body, bold white cheek patch on dark head, dark cap, GRAY bill (not blue - that's breeding only), stiff tail held upright/cocked, compact chunky body sitting low in water. Calm lake with soft background.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-09T20:46:19.929603

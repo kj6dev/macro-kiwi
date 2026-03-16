@@ -1,0 +1,10 @@
+Original Prompt:
+A highly detailed block print style scientific illustration of a Western Meadowlark in side profile showing the full body, accurate natural colors, precise feather details and markings, bright yellow breast with distinctive black V-shaped marking, ornithological accuracy, isometric perspective, flattened telephoto aesthetic, whole bird visible from head to tail, block print illustration technique, scientific field guide quality, educational specimen reference, naturalist art style, plain white background, ornithology textbook quality, species identification focused
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-01-19T12:09:02.492515

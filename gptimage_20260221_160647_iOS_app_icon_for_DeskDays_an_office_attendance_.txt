@@ -1,0 +1,10 @@
+Original Prompt:
+iOS app icon for "DeskDays", an office attendance tracker. Design: Dark charcoal/slate background (#1E293B). A stylized desk/table from above, rendered as a minimal geometric shape in warm amber/gold (#F59E0B). A small circular progress indicator overlaid showing ~60% complete in bright green (#10B981). Ultra-minimal, flat design, no gradients, no text. Professional and modern. 1024x1024. No rounded corners.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: auto
+Generated: 2026-02-21T16:06:47.644552

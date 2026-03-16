@@ -1,0 +1,10 @@
+Original Prompt:
+iOS app icon for a personal fitness data tracking app. Solid rich black background. A simple, bold upward arrow composed of three stacked chevrons in a gradient from red at the bottom through orange to bright gold at the top, suggesting progress and gains. The arrow shape subtly resembles a barbell from certain angles. Minimalist, iconic, memorable silhouette. No text. Clean enough to read at small sizes on iOS.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: high
+Background: auto
+Generated: 2026-02-23T08:14:14.098661

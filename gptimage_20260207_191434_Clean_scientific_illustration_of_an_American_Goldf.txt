@@ -1,0 +1,10 @@
+Original Prompt:
+Clean scientific illustration of an American Goldfinch in side profile on a plain white background, rendered in neutral gray tones. The bird's notched tail (with a shallow indent in the center) is highlighted in bright red/orange color. No text, no labels. Field guide illustration style.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-07T19:14:34.485534

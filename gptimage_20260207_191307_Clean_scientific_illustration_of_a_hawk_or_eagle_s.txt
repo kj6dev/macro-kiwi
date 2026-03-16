@@ -1,0 +1,10 @@
+Original Prompt:
+Clean scientific illustration of a hawk or eagle seen from below in flight, wings spread, on a plain white background. The bird's AXILLARIES (the feathers in the "wingpit" or armpit area where the wing meets the body on the underside) are highlighted in bright red/orange color while the rest of the bird is rendered in neutral gray tones. No text, no labels, no arrows. Field guide illustration style, clean and educational.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-07T19:13:07.962932

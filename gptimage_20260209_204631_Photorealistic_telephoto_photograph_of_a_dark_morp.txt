@@ -1,0 +1,10 @@
+Original Prompt:
+Photorealistic telephoto photograph of a dark morph Swainson's Hawk (Buteo swainsoni) in flight from below. Key features: UNIFORMLY DARK chocolate-brown to blackish body and wing linings, contrasting with slightly paler flight feathers. Dark bib blends into dark belly. Tail has fine barring. Long pointed wings. Blue sky with some clouds. The bird should look almost entirely dark except for slightly lighter flight feather bases.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-09T20:46:31.468301

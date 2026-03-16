@@ -1,0 +1,17 @@
+Original Prompt:
+Vibrant, high-contrast modern digital illustration for podcast episode "The Coase Theorem Explained" about economics and property rights. Playful yet polished tech aesthetic with soft rounded shapes and clean vector-like edges.
+
+Central composition features simplified geometric representations of economic exchange: flowing curved arrows between abstract shapes suggesting value transfer, balanced scales as rounded forms, handshake symbols as smooth geometric curves.
+
+Dynamic gradients in neon purples, electric blues, warm oranges, and hot pinks creating depth without texture. Smooth flowing shapes with directional curves suggesting economic flow and market dynamics. Light glossy feel with gentle highlights.
+
+Friendly "futuristic toy" aesthetic - bright, optimistic interpretation of economic concepts. NOT serious business charts but playful, curious exploration of ideas. Simplified geometry with bold color blocking. Clean digital illustration style.
+
+Emotional tone: clever, energetic, playful confidence with knowledge in motion.
+
+Revised Prompt:
+Create a vibrant, high-contrast digital illustration following a playful yet polished tech aesthetic filled with soft rounded shapes and clean vector-like edges. The central composition should feature simplified geometric representations of economic exchange, like flowing curved arrows between abstract shapes suggesting value transfer, balanced scales, and handshake symbols as smooth geometric curves. Use dynamic gradients in neon purples, electric blues, warm oranges, hot pinks to create depth. The goal is to depict a friendly, futuristic toy aesthetic, radiating an emotional tone of clever, energetic, playful confidence with knowledge in motion.
+
+Quality: standard
+Style: vivid
+Generated: 2025-11-02T21:44:42.858379

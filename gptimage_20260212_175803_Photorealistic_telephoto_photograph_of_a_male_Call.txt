@@ -1,0 +1,10 @@
+Original Prompt:
+Photorealistic telephoto photograph of a male Calliope Hummingbird perched on a thin branch. Key features: the gorget (throat feathers) must show individual magenta-purple streaks/rays fanning out from the throat against a white background - NOT a solid iridescent patch like other hummingbirds. The streaky, whisker-like gorget pattern is the key identifying feature. Smallest bird in North America, compact body, short tail. Green back, white underparts. Natural mountain meadow setting. Professional wildlife photography style.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-12T17:58:03.665869

@@ -1,0 +1,10 @@
+Original Prompt:
+Clean scientific illustration of a generic North American songbird (like a sparrow), side profile on a plain white background. The bird's WING COVERTS (the rows of small feathers covering the base of the flight feathers on the folded wing — the greater coverts and median coverts) are highlighted in bright red/orange color while the rest of the bird is rendered in neutral gray tones. No text, no labels, no arrows. Field guide illustration style, clean and educational.
+
+Revised Prompt:
+None
+
+Model: gpt-image-1.5
+Quality: low
+Background: auto
+Generated: 2026-02-07T19:12:47.195154

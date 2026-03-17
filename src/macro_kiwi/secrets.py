@@ -1,8 +1,9 @@
 """Secret retrieval for macro-kiwi — Proton Pass primary, macOS Keychain fallback."""
 
+import os
 import subprocess
 
-ACCOUNT = "bryancostanza"
+ACCOUNT = os.environ.get("KEYCHAIN_ACCOUNT", "")
 VAULT = "Developer Secrets"
 
 

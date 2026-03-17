@@ -1,9 +1,0 @@
-Original Prompt:
-A belted kingfisher perched on a branch, traditional ornithology plate illustration style. The bird is shown in side profile with its characteristic shaggy crest, blue-gray back, white chest with blue breast band, and stout bill. The kingfisher has a playful expression with bright eyes. Clean white background, hand-drawn naturalistic style with soft colors.
-
-Revised Prompt:
-A belted kingfisher is perched on a branch in the style of a traditional ornithology plate illustration. The bird is shown in a side profile. Characteristic features include a shaggy crest, a back of blue-gray coloration, a white chest adorned with a blue breast band, and a stout bill. The kingfisher's expression is one of playfulness and its eyes sparkle with brightness. The background is a clean white void, emphasizing the bird and its delicately rendered details. The overall style is hand-drawn and naturalistic, imbued with soft hues to truly capture the essence of this charismatic bird.
-
-Quality: standard
-Style: natural
-Generated: 2025-10-12T16:36:24.068875
